@@ -17,4 +17,5 @@ data/
 ./archive.zip
 */*.zip
 */dataset
+*/video_outputs
 */video_output

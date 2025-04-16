@@ -1,8 +1,21 @@
-# uavdt.yaml
-path: ./UAVDT-processed
+train: C:\Users\sande\OneDrive\Desktop\IITTP\2_Asgn\Sem2\2_dl\SemProject\Automated_SegmentAndYolo\dataset\suitable-dataset\train\images
+val: C:\Users\sande\OneDrive\Desktop\IITTP\2_Asgn\Sem2\2_dl\SemProject\Automated_SegmentAndYolo\dataset\suitable-dataset\val\images
 
-train: train/images
-val: val/images
-
-nc: 4
-names: ["car", "truck", "bus", "vehicle"]
+nc: 16  # Number of classes (unlabeled to person)
+names:
+  0: 'unlabeled'
+  1: 'paved-area'
+  2: 'dirt'
+  3: 'grass'
+  4: 'gravel'
+  5: 'water'
+  6: 'rocks'
+  7: 'pool'
+  8: 'vegetation'
+  9: 'roof'
+  10: 'wall'
+  11: 'window'
+  12: 'door'
+  13: 'fence'
+  14: 'fence-pole'
+  15: 'person'
