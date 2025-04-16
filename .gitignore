@@ -19,3 +19,6 @@ data/
 */dataset
 */video_outputs
 */video_output
+./deeplabv3_model.pth
+./*.pth
+*.pth
