@@ -16,3 +16,5 @@ data/
 */Pipeline/runs
 ./archive.zip
 */*.zip
+*/dataset
+*/video_output
