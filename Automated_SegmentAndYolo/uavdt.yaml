@@ -1,21 +1,16 @@
 train: C:\Users\sande\OneDrive\Desktop\IITTP\2_Asgn\Sem2\2_dl\SemProject\Automated_SegmentAndYolo\dataset\suitable-dataset\train\images
 val: C:\Users\sande\OneDrive\Desktop\IITTP\2_Asgn\Sem2\2_dl\SemProject\Automated_SegmentAndYolo\dataset\suitable-dataset\val\images
 
-nc: 16  # Number of classes (unlabeled to person)
+nc: 11  # Number of classes
 names:
-  0: 'unlabeled'
-  1: 'paved-area'
-  2: 'dirt'
-  3: 'grass'
-  4: 'gravel'
-  5: 'water'
-  6: 'rocks'
-  7: 'pool'
-  8: 'vegetation'
-  9: 'roof'
-  10: 'wall'
-  11: 'window'
-  12: 'door'
-  13: 'fence'
-  14: 'fence-pole'
-  15: 'person'
+    0: water
+    1: pool
+    2: vegetation
+    3: roof
+    4: wall
+    5: window
+    6: person
+    7: dog
+    8: car
+    9: bicycle
+    10: tree
