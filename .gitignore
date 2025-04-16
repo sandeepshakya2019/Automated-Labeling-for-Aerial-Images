@@ -22,3 +22,4 @@ data/
 ./deeplabv3_model.pth
 ./*.pth
 *.pth
+Automated_SegmentAndYolo/deeplabv3_model.pth
