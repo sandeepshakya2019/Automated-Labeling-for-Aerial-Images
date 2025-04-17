@@ -9,7 +9,7 @@ data/
 */acrchive/*
 */UAVDT-processed
 */runs
-*/dataset
+*/datasets
 */Pipeline/dataset
 */Pipeline/archive.zip
 */Pipeline/__pycache__
