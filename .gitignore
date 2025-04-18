@@ -26,3 +26,6 @@ Automated_SegmentAndYolo/deeplabv3_model.pth
 */datasets
 */runs_yolo
 */yolov8n.pt
+*/opt
+*/videos
+*/videos
