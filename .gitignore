@@ -23,3 +23,6 @@ data/
 ./*.pth
 *.pth
 Automated_SegmentAndYolo/deeplabv3_model.pth
+*/datasets
+*/runs_yolo
+*/yolov8n.pt
