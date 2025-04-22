@@ -1,0 +1,38 @@
+train: ./new_dataset_yolo_split/train/images
+val:  ./new_dataset_yolo_split/val/images
+
+nc: 14 # Number of classes
+names:
+    0: 'unlabeled'
+    1: 'pool'
+    2: 'vegetation'
+    3: 'roof'
+    4: 'wall'
+    5: 'window'
+    6: 'person'
+    7: 'dog'
+    8: 'car'
+    9: 'bicycle'
+    10: 'tree'
+    11: 'truck'
+    12: 'bus'
+    13: 'vehicle'
+
+
+# train: C:\Users\sande\OneDrive\Desktop\IITTP\2_Asgn\Sem2\2_dl\SemProject\Automated_SegmentAndYolo\datasets\new_dataset_yolo_split\train\images
+# val:  C:\Users\sande\OneDrive\Desktop\IITTP\2_Asgn\Sem2\2_dl\SemProject\Automated_SegmentAndYolo\datasets\new_dataset_yolo_split\val\images
+
+# nc: 11 # Number of classes
+# names:
+#     0: 'road'
+#     1: 'pool'
+#     2: 'vegetation'
+#     3: 'roof'
+#     4: 'wall'
+#     5: 'window'
+#     6: person
+#     7: 'dog'
+#     8: 'car'
+#     9: 'bicycle'
+#     10: 'tree'
+
