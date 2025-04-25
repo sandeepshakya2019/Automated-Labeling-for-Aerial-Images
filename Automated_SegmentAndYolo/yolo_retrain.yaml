@@ -1,5 +1,5 @@
 train: ./merged_yolo_dataset/images
-val:  ./new-videos-predicted-yolo/images
+val:  ./split_videos_dataset/val/images
 
 nc: 14 # Number of classes
 names:

@@ -32,3 +32,5 @@ Automated_SegmentAndYolo/deeplabv3_model.pth
 */*.pt
 */a/*
 */datasets/*
+*/output
+*/runss
