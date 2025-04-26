@@ -1,0 +1,58 @@
+{
+    "unlabeled": {
+        "class_id": 0,
+        "mAP@0.5:0.95": 0.2322
+    },
+    "pool": {
+        "class_id": 1,
+        "mAP@0.5:0.95": 0.8511
+    },
+    "vegetation": {
+        "class_id": 2,
+        "mAP@0.5:0.95": 0.107
+    },
+    "roof": {
+        "class_id": 3,
+        "mAP@0.5:0.95": 0.4061
+    },
+    "wall": {
+        "class_id": 4,
+        "mAP@0.5:0.95": 0.1156
+    },
+    "window": {
+        "class_id": 5,
+        "mAP@0.5:0.95": 0.1175
+    },
+    "person": {
+        "class_id": 6,
+        "mAP@0.5:0.95": 0.2474
+    },
+    "dog": {
+        "class_id": 7,
+        "mAP@0.5:0.95": 0.1438
+    },
+    "car": {
+        "class_id": 8,
+        "mAP@0.5:0.95": 0.2454
+    },
+    "bicycle": {
+        "class_id": 9,
+        "mAP@0.5:0.95": 0.2903
+    },
+    "tree": {
+        "class_id": 10,
+        "mAP@0.5:0.95": 0.3684
+    },
+    "truck": {
+        "class_id": 11,
+        "mAP@0.5:0.95": 0.0295
+    },
+    "bus": {
+        "class_id": 12,
+        "mAP@0.5:0.95": 0.0
+    },
+    "vehicle": {
+        "class_id": 13,
+        "mAP@0.5:0.95": 0.0959
+    }
+}
