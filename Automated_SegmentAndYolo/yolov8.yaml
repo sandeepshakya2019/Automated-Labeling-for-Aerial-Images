@@ -1,38 +1,23 @@
-train: ./new_dataset_yolo_split/train/images
-val:  ./new_dataset_yolo_split/val/images
+# Paths to the training and validation datasets
+train: ./new_dataset_yolo_split/train/images  # Path to training images in the new dataset
+val: ./new_dataset_yolo_split/val/images  # Path to validation images in the new dataset
 
-nc: 14 # Number of classes
+# Number of classes in the dataset
+nc: 14  # Total number of object classes
+
+# List of class names mapped to integer indices
 names:
-    0: 'unlabeled'
-    1: 'pool'
-    2: 'vegetation'
-    3: 'roof'
-    4: 'wall'
-    5: 'window'
-    6: 'person'
-    7: 'dog'
-    8: 'car'
-    9: 'bicycle'
-    10: 'tree'
-    11: 'truck'
-    12: 'bus'
-    13: 'vehicle'
-
-
-# train: C:\Users\sande\OneDrive\Desktop\IITTP\2_Asgn\Sem2\2_dl\SemProject\Automated_SegmentAndYolo\datasets\new_dataset_yolo_split\train\images
-# val:  C:\Users\sande\OneDrive\Desktop\IITTP\2_Asgn\Sem2\2_dl\SemProject\Automated_SegmentAndYolo\datasets\new_dataset_yolo_split\val\images
-
-# nc: 11 # Number of classes
-# names:
-#     0: 'road'
-#     1: 'pool'
-#     2: 'vegetation'
-#     3: 'roof'
-#     4: 'wall'
-#     5: 'window'
-#     6: person
-#     7: 'dog'
-#     8: 'car'
-#     9: 'bicycle'
-#     10: 'tree'
-
+    0: 'unlabeled'  # Class 0: Unlabeled objects, often used for background or ignored regions
+    1: 'pool'  # Class 1: Pool areas
+    2: 'vegetation'  # Class 2: Vegetation (e.g., grass, plants)
+    3: 'roof'  # Class 3: Roof of buildings or structures
+    4: 'wall'  # Class 4: Wall of buildings
+    5: 'window'  # Class 5: Windows on structures
+    6: 'person'  # Class 6: People
+    7: 'dog'  # Class 7: Dogs
+    8: 'car'  # Class 8: Cars
+    9: 'bicycle'  # Class 9: Bicycles
+    10: 'tree'  # Class 10: Trees
+    11: 'truck'  # Class 11: Trucks
+    12: 'bus'  # Class 12: Buses
+    13: 'vehicle'  # Class 13: Other types of vehicles (e.g., motorcycles)
