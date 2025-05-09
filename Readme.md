@@ -65,7 +65,7 @@ This notebook performs the following tasks:
 You can view the demonstration video showcasing automatic object labeling and model comparison at the following link:
 
 🔗 [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1k0-WHiETryHKUORFuEQh_3Kd7g0lRH2k/view?resourcekey)
-
+🔗 [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1MBpIVFHy6dJNCWAVmwQDau45BA_4rQTz/view?resourcekey)
 
 # live_prediction.ipynb – Real-Time Side-by-Side Model Comparison
 
