@@ -8,7 +8,7 @@ data/
 */archive.zip
 */acrchive/*
 */UAVDT-processed
-*/runs
+# */runs
 */datasets
 */Pipeline/dataset
 */Pipeline/archive.zip
