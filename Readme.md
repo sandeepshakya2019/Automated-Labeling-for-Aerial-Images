@@ -158,4 +158,16 @@ The notebook performs the following:
 ![image](https://github.com/user-attachments/assets/e6bc8e26-93e1-495b-be40-a4f4ed3cf9de)
 
 
+# ✅ Conclusion
 
+We proposed a fully automated pipeline for object detection annotation in drone-captured aerial footage by combining pretrained YOLO models with confidence-based filtering. This system eliminates the need for manual labeling by automatically generating annotations, which are then used to iteratively retrain the model. The inclusion of these auto-labeled samples led to measurable improvements in performance metrics such as precision, recall, and mAP@0.5:0.95—particularly for previously underperforming classes like **bus**, **vehicle**, and **roof**. 
+
+The approach demonstrates a scalable, human-free labeling workflow that is both efficient and effective for aerial imagery. It showcases how self-improving deep learning systems can significantly enhance detection accuracy while minimizing manual intervention—making it a promising solution for real-time drone-based vision applications.
+
+---
+
+# 👨‍💻 Authors
+
+- **Sandeep Kumar** (CS24M112)  
+- **Ashant Kumar** (CS24M113)  
+- **Abhishek Kumar** (CS24M120)  
