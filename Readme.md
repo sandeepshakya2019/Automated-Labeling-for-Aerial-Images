@@ -65,7 +65,6 @@ This notebook performs the following tasks:
 
 https://github.com/user-attachments/assets/a55ba3a7-9189-4f9e-adeb-92a48315bf1b
 
-
 # live_prediction.ipynb – Real-Time Side-by-Side Model Comparison
 
 This notebook performs real-time inference from a live camera feed using **two different YOLOv8 models**, and displays their predictions side by side for visual comparison.
