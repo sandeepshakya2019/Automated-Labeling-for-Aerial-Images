@@ -18,6 +18,11 @@ This Jupyter Notebook contains a complete pipeline for object detection using th
 
 ---
 
+## Model Pipeline
+
+![image](https://github.com/user-attachments/assets/c4fff7a4-1b31-4a75-83ae-6d46287ba9bc)
+
+
 # comparison_two_model.ipynb – Side-by-Side Model Comparison
 
 This notebook enables visual and qualitative comparison between two trained YOLOv8 models by running inference on video input and displaying their predictions frame-by-frame side by side.
@@ -54,6 +59,12 @@ This notebook performs the following tasks:
 - Use as evidence of progress after retraining or hyperparameter tuning.
 
 ---
+
+## Comparison Video
+
+
+https://github.com/user-attachments/assets/a55ba3a7-9189-4f9e-adeb-92a48315bf1b
+
 
 # live_prediction.ipynb – Real-Time Side-by-Side Model Comparison
 
