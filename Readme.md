@@ -60,10 +60,12 @@ This notebook performs the following tasks:
 
 ---
 
-## Comparison Video
+## 📹 Demo Video – Automatic Object Labeling with Drone
 
+You can view the demonstration video showcasing automatic object labeling and model comparison at the following link:
 
-https://github.com/user-attachments/assets/a55ba3a7-9189-4f9e-adeb-92a48315bf1b
+🔗 [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1k0-WHiETryHKUORFuEQh_3Kd7g0lRH2k/view?resourcekey)
+
 
 # live_prediction.ipynb – Real-Time Side-by-Side Model Comparison
 
