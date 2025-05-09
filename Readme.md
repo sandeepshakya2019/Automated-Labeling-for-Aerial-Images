@@ -1,3 +1,6 @@
+> **Note**  
+> Some notebooks in this project may have dependencies on the original dataset.  
+> To run the entire pipeline end-to-end, including training, auto-labeling, and evaluation, make sure to download the required datasets first by running the `download_datasets.ipynb` file.
 
 # YOLOv8.ipynb – Training, Retraining, and Visualization Pipeline
 
