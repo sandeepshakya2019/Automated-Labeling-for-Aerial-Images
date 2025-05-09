@@ -139,3 +139,23 @@ The notebook performs the following:
 - Justify the effectiveness of the automatic labeling and retraining process.
 
 ---
+
+### Before and After Retrain Metric
+
+![image](https://github.com/user-attachments/assets/3d403fe4-cdc7-48d0-a683-0c226b991dde)
+
+### Before and After Retrain Metrics Per Class Map@0.95
+
+![image](https://github.com/user-attachments/assets/db89bfc3-b5d6-4877-bc75-b95c31e5c8ba)
+
+## Before Retrain
+
+![image](https://github.com/user-attachments/assets/dc4355f7-c934-4376-9e66-1036b5f73e18)
+
+
+## After Retrain 
+
+![image](https://github.com/user-attachments/assets/e6bc8e26-93e1-495b-be40-a4f4ed3cf9de)
+
+
+
