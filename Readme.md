@@ -15,6 +15,16 @@
 - `comparision_two_model.ipynb` and `live_prediction.ipynb` are independent of the dataset.  
   Pre-trained models are already saved in the `/runs/train/` directory, so you can run these notebooks directly without re-training.
 
+> **About This Project**
+
+The section below contains **complete information** about the notebooks, including:
+
+- Descriptions of each step in the pipeline  
+- Details of training and retraining phases  
+- Results and performance metrics  
+- Gameplay videos generated using both the **initially trained** and **retrained** models  
+
+This documentation is intended to give a clear overview of how the models were developed, evaluated, and applied to real-world video inputs.
 
 # YOLOv8.ipynb – Training, Retraining, and Visualization Pipeline
 
