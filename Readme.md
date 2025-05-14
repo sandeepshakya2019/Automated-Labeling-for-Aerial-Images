@@ -1,7 +1,20 @@
-> **Note**  
-- Some notebooks in this project may have dependencies on the original dataset.  
-- To run the entire pipeline end-to-end, including training, auto-labeling, and evaluation, make sure to download the required datasets first by running the `download_datasets.ipynb` file.
-- `comparision_two_model.ipynb` and `live_prediction.ipynb` these are independent file from the datasets i have uploaded the two videos with this you can run these .ipynb file directly model is already saved in `/runs/train/`
+> **How to Run the Code**
+
+- Execute the `yolov8.ipynb` notebook. This notebook performs all the essential steps including:
+  - Installing dependencies
+  - Downloading and converting datasets into YOLO format
+  - Normalizing the data
+  - Initial training
+  - Auto-annotation and re-training
+  - Running predictions on videos
+
+> **Additional Notebooks**
+
+- Some notebooks in this project depend on the original dataset.  
+- To run the full pipeline end-to-end (training, auto-labeling, evaluation), first execute `download_datasets.ipynb` to fetch the necessary datasets.
+- `comparision_two_model.ipynb` and `live_prediction.ipynb` are independent of the dataset.  
+  Pre-trained models are already saved in the `/runs/train/` directory, so you can run these notebooks directly without re-training.
+
 
 # YOLOv8.ipynb – Training, Retraining, and Visualization Pipeline
 
